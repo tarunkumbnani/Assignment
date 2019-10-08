@@ -1,0 +1,8 @@
+﻿*.suo
+.vs/
+*.feature.cs
+bin/
+obj/
+packages/
+*.[Cc]ache
+!*.[Cc]ache/
